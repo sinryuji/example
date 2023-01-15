@@ -1,2 +1,2 @@
-# example_code
+# example
 Various example codes
